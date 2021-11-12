@@ -1,0 +1,10 @@
+#tetrisImage {
+    -fx-background-image: url("/sample/TetrisLogo.jpg");
+    -fx-content-display: center;
+    -fx-alignment: center;
+}
+#interactions .button{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+
+}
